@@ -1,0 +1,4 @@
+Hello World!
+Python is a beautiful language.
+Python's interpreter is written in C.
+Discord uses Python.
