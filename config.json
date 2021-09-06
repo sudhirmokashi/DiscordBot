@@ -1,0 +1,15 @@
+{
+  "token": "ODgwMzk5ODU2NzAxNzAyMTg0.YSduQg.iUr__SpNjf-pSCdQqGmdmysyAnE",
+  "join_message": "I have joined to do stuff",
+  "owners": [
+    770680577614413845
+  ],
+  "prefix": [
+    "!"
+  ],
+  "activity": "games!",
+  "activity_type": "playing|watching|listening|competing",
+  "status_type": "online|idle|dnd",
+  "version": "2.0.2",
+  "playing": "with my life"
+}
